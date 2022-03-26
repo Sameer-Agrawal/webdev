@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms</title>
+  </head>
+  <body>
+    <h2>This is forms in html</h2>
+    <label for="name">Name:</label>
+    <form action="backend.php">
+      <div><input type="text" name="myname" id="name" /></div>
+      <div>Role: <input type="text" name="myrole" /></div>
+      <div>Email: <input type="email" name="myemail" /></div>
+      <div>
+        Gender: Male<input type="radio" name="Mygender" /> Female<input
+          type="radio"
+          name="Mygender"
+        />
+        Other<input type="radio" name="Mygender" />
+      </div>
+      <div>
+        Enter text here:
+        <textarea name="Mytextares" cols="30" rows="10"></textarea>
+      </div>
+      <div>
+        <label for="car">Car</label>
+        <select name="Mycar" id="car">
+          <option value="Ind">Indica</option>
+          <option value="swf" selected>Swift</option>
+        </select>
+      </div>
+      <div>
+        <input type="submit" value="Submit Now" />
+      </div>
+    </form>
+  </body>
+</html>
