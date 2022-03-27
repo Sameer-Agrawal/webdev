@@ -1,0 +1,5 @@
+Responsiveness is when our website adapt according to different devices
+code + " ." in terminal to open a particular folder in vscode!
+Event listener: If there is an event, then do a specific action is the task of an event listner!
+Dom stands for document object model, and is a tree like object comprising of different elements!
+DOM manipulation is a client side manipulation! 
