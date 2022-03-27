@@ -2,3 +2,7 @@
     background-color: antiquewhite;
     color: brown;
 }
+.redbgblue.purpleborder{
+    background-color: red;
+    border: purple;
+}

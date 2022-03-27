@@ -3,3 +3,8 @@ code + " ." in terminal to open a particular folder in vscode!
 Event listener: If there is an event, then do a specific action is the task of an event listner!
 Dom stands for document object model, and is a tree like object comprising of different elements!
 DOM manipulation is a client side manipulation! 
+If we write inline CSS for every element, the presumably the website will not be maintainable
+In general class selectors are more widely use, compared to id selectors due to there reusebility
+We can group elements for css application by adding "," between them
+"*" can be used as a universal selector to select all elements
+inline css will override internal and external css
