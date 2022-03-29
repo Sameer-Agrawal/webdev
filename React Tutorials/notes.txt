@@ -1,0 +1,2 @@
+There are dissmisable alerts in bootstrap
+It is always a good practice to give exact path, because react also does partial matching
